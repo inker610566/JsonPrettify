@@ -1,5 +1,3 @@
-import json
-
 output = u""
 
 indent_string = u"    "
